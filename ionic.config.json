@@ -1,0 +1,7 @@
+{
+  "name": "studente-libretto",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
